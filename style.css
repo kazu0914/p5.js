@@ -1,0 +1,7 @@
+/* 
+https://qiita.com/ryomeguro/items/02e0f4b40f9cc8d3045e
+*/
+#defaultCanvas0 {
+  position: fixed; /*canvasを固定*/
+  top: 0; /*canvasを上に固定*/
+}
